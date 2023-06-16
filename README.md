@@ -8,9 +8,9 @@
 
 <p align=center> 🔭 I’m currently working on <a href=https://github.com/human71/TRAVID>TRAVID</a></p>
 
-<p align=center> 🌱 I’m currently learning <a href=[https://github.com/human71/TRAVID](https://arxiv.org/abs/2301.04856)>Multimodal Deep Learning</a></p>
+<p align=center> 🌱 I’m currently learning <a href=[https://github.com/human71/TRAVID](https://arxiv.org/abs/2301.04856)><b>Multimodal Deep Learning<b></a></p>
 
-<p align=center> 📫 You can reach me at <a href=mailto:prottay_ug@cse.nits.ac.in>prottay_ug@cse.nits.ac.in</a></p>
+<p align=center> 📧 You can reach me at <a href=mailto:prottay_ug@cse.nits.ac.in>prottay_ug@cse.nits.ac.in</a></p>
 
 <p align=center> 📄 Know about my experiences visit my <a href=https://drive.google.com/file/d/1h3CFNURan3vAP1nfsI4DEX1f0oK2BIdu/view>CV</a></p>
 <br>

@@ -1,6 +1,6 @@
 <p align = "center"> <img src="https://raw.githubusercontent.com/human71/human71/main/mt.gif"></p>
 
-<h1 align="center">Hi 👋, I'm Prottay Kumar Adhikary</h1>
+<h1 align="center">Hey Human 👋, I'm Prottay Kumar Adhikary!</h1>
 <p align="center">A highly motivated individual who recently graduated from NIT Silchar with a specialization in Computer Science & Engineering. With a keen interest in Natural Language Processing (NLP), I have conducted extensive research in the field, exploring innovative solutions to enhance language understanding and communication. My contribution to NLP has equipped me with strong analytical skills and the ability to develop effective algorithms and models. Passionate about leveraging technology to transform the way we interact with language, now I am seeking opportunities to contribute to the advancement of NLP in real-world applications.</p>
 
 

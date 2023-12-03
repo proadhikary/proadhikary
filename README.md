@@ -5,7 +5,7 @@
 <h1 align="center">Hey Human 👋, I'm Prottay Kumar Adhikary!</h1>
 
 <div align = center>
-<a href="https://human71.github.io/"><kbd> <br> Visit Portfolio <br> </kbd></a>
+<a href="https://proadhikary.github.io/"><kbd> <br> Visit Portfolio <br> </kbd></a>
 </div><br>
 
 <p align="center">A highly motivated individual who recently graduated from NIT Silchar with a specialization in Computer Science & Engineering. With a keen interest in Natural Language Processing (NLP), I have conducted extensive research in the field, exploring innovative solutions to enhance language understanding and communication. My contribution to NLP has equipped me with strong analytical skills and the ability to develop effective algorithms and models. Passionate about leveraging technology to transform the way we interact with language, now I am seeking opportunities to contribute to the advancement of NLP in real-world applications.</p>
@@ -15,19 +15,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=human71&label=Profile%20views&color=0e75b6&style=flat" alt="human71" /> </p>
 
-<p align=center> 🔭 I’m currently working on <a href=https://github.com/human71/TRAVID>TRAVID</a></p>
+<p align=center> 🔭 I’m currently working on <a href=https://github.com/proadhikary/TRAVID>TRAVID</a></p>
 
-<p align=center> 🌱 I’m currently learning <a href=[https://github.com/human71/TRAVID](https://arxiv.org/abs/2301.04856)><b>Multimodal Deep Learning<b></a></p>
+<p align=center> 🌱 I’m currently learning <a href=[https://github.com/proadhikary/TRAVID](https://arxiv.org/abs/2301.04856)><b>Multimodal Deep Learning<b></a></p>
 
 <p align=center> 📧 You can reach me at <a href=mailto:prottay71@gmail.com>prottay71@gmail.com</a></p>
 
-<p align=center> 📄 Know about my experiences visit my <a href=https://drive.google.com/file/d/1h3CFNURan3vAP1nfsI4DEX1f0oK2BIdu/view>CV</a></p>
+<p align=center> 📄 Know about my experiences visit my <a href=https://proadhikary.github.io/assets/img/Prottay_CV.pdf>CV</a></p>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/proadhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="proadhikary" height="30" width="40" /></a>
-<a href="https://fb.com/prottay.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prottay.71" height="30" width="40" /></a>
-<a href="https://instagram.com/i.am.not.a.chatbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am.not.a.chatbot" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/prooooooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prooooooo" height="30" width="40" /></a>
 </p>
 <br>

@@ -17,7 +17,7 @@
 
 <p align=center> 🔭 I’m currently working on <a href=https://link.springer.com/referenceworkentry/10.1007/978-1-4614-7320-6_501-1>Computational Psychiatry</a></p>
 
-<p align=center> 🌱 I’m currently exploring <a href=[https://en.wikipedia.org/wiki/Cognitive_psychology](https://arxiv.org/abs/2301.04856)><b>Pognitive Phenomena<b></a></p>
+<p align=center> 🌱 I’m currently exploring <a href=https://en.wikipedia.org/wiki/Cognitive_psychology><b>Pognitive Phenomena<b></a></p>
 
 <p align=center> 📧 You can reach me at <a href=mailto:prottay71@gmail.com>prottay71@gmail.com</a></p>
 

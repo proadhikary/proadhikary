@@ -19,7 +19,7 @@
 
 <p align=center> 📧 You can reach me at <a href=mailto:prottay71@gmail.com>prottay71@gmail.com</a></p>
 
-<p align=center> 📄 Know about my experiences visit my <a href=https://proadhikary.github.io/assets/img/Prottay_CV.pdf>CV</a></p>
+<p align=center> 📄 Know about my experiences visit my <a href=https://proadhikary.github.io/assets/img/prottaykumar_adhikary_resume.pdf>CV</a></p>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">

@@ -8,7 +8,7 @@
 <a href="https://proadhikary.github.io/"><kbd> <br> Visit Portfolio <br> </kbd></a>
 </div><br>
 
-<p align="center">Enthusiastically pursuing a PhD in Computer Technology at IIT Delhi, I've conducted groundbreaking research in Mental Health. A recent graduate from NIT Silchar in Computer Science & Engineering, my specialization lies in Natural Language Processing (NLP). My research in NLP has honed my analytical skills, enabling me to develop innovative algorithms and models for enhanced language understanding. Eager to contribute to real-world applications, I am passionate about leveraging technology to revolutionize language interaction.</p>
+<p align="center"> Doctoral Researcher at IIT Delhi in Mental Health. A recent graduate from NIT Silchar in Computer Science & Engineering, my specialization lies in Natural Language Processing (NLP). My research in NLP has honed my analytical skills, enabling me to develop innovative algorithms and models for enhanced language understanding. Eager to contribute to real-world applications, I am passionate about leveraging technology to revolutionize language interaction.</p>
 
 
 

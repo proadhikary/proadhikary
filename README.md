@@ -15,7 +15,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=human71&label=Profile%20views&color=0e75b6&style=flat" alt="human71" /> </p>
 
-<p align=center> 🔭 I’m currently working on <a href=></a>Computational Psychotherapy</p>
+<p align=center> 🔭 I’m currently working on <a href=></a>Digital Psychotherapy</p>
 
 <p align=center> 📄 Know about my experiences visit my <a href=https://proadhikary.github.io/assets/img/prottaykumar_adhikary_resume.pdf>CV</a></p>
 <br>
